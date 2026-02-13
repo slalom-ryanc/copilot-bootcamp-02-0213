@@ -13,3 +13,4 @@ The project documentation will be built during the bootcamp sessions.
 - [UI Guidelines](../docs/ui-guidelines.md) - UI design guidelines with Christmas theme and Material-UI components
 - [Testing Guidelines](../docs/testing-guidelines.md) - Testing requirements and best practices for unit, integration, and E2E tests
 - [Coding Guidelines](../docs/coding-guidelines.md) - Code style standards, formatting rules, and quality principles including DRY and SOLID
+- [Implementation Plan](../docs/implementation-plan.md) - Comprehensive plan for expanding the TODO app with all features
